@@ -1,0 +1,78 @@
+<div id="drink" class="container mt-3">
+  <div class="card mb-1 text-body bg-light">
+    <div class="row">
+      <div class="col-sm">
+        <img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title="">
+      </div>
+      <div class="col-sm pt-3">
+        <h1 class="text-center">Gin & Tonic</h1>
+        <hr>
+        <p class="pr-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <hr>
+      </div>
+    </div>
+  </div>
+  <div class="card bg-light text-body pl-3">
+    <div class="row">
+      <div class="col-sm pt-3 mr-3">
+        <h1 class="text-center">Ingredients</h1>
+        <form class="pt-2">
+          <div class="form-group d-flex flex-row align-middle">
+            <label class="mt-2 ml-1 mr-1">For</label>
+            <input class="form-text form-control w-25" />
+            <label class="mt-2 ml-1 mr-1">portion of</label>
+            <input class="form-text form-control w-25" />
+            <select class="custom-select mt-1 w-auto">
+              <option>ml</option>
+              <option>oz</option>
+            </select>
+          </div>
+        </form>
+        <div class="w-100">
+          <table class="table table-striped table-hover table-responsive d-inline">
+            <thead>
+              <tr>
+                <th scope="col">Ingredient</th>
+                <th scope="col">Portion</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row" class="align-right">Gin</th>
+                <td>50%</td>
+              </tr>
+              <tr>
+                <th scope="row">Tonic</th>
+                <td>50%</td>
+              </tr>
+            </tbody>
+          </table>
+
+          <table class="table table-striped table-hover table-responsive">
+            <thead>
+              <tr>
+                <th scope="col">Accessory</th>
+                <th scope="col">Pieces</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <th scope="row" class="align-right">Cucumber</th>
+                <td>4</td>
+              </tr>
+              <tr>
+                <th scope="row">Ice cubes</th>
+                <td>6</td>
+              </tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div class="col-sm pt-3">
+        <h1 class="text-center">Instructions</h1>
+        <hr>
+        <p class="pr-3">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,687 @@
+<div id="drinks" class="d-flex flex-wrap">
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+  <div class="border rounded ml-3 mb-3 align-flex-center" style="width: 16rem;">
+    <a href="/cocktail/"><img src="https://priceless-pike-99a36b.netlify.com/images/gandt.png" class="card-img-top" style="padding: 2px;" title=""></a>
+    <div class="card-body">
+      <div>
+        <h5 class="card-title text-center">
+          <a href="/cocktail/1" class="text-body">Gin &amp; Tonic</a>
+        </h5>
+      </div>
+      <div>
+        <a href="/ingredient/1" class="text-body">Gin</a>
+        ,
+        <a href="/ingredient/2" class="text-body">Tonic</a>
+      </div>
+    </div>
+    <div class="card-footer">
+      <span class="badge badge-pill badge-secondary">highballs</span>
+    </div>
+  </div>
+</div>
+<!--<script type="text/javascript" src="<%= Routes.static_path(@conn, "/js/drinks/drinks.js") %>"></script>-->
