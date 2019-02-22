@@ -17,7 +17,8 @@ defmodule OpencocktailBackendWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
-    get "/drink", DrinkController, :index
+    get "/drink/:id", DrinkController, :drink
+    get "/drink/:id/edit", DrinkController, :edit
   end
 
   # Other scopes may use custom stacks.
